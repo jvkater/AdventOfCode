@@ -1,2 +1,2 @@
 # AdventOfCode
-ipynbs from 2017 Advent of Code
+scripts with tasks from 2017 Advent of Code
